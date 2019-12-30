@@ -17,8 +17,9 @@ Each Milestone will have a task and certain amount of funds associated. Once the
       Hence all cummulitive milestone is equal to a complete project
 
 ## Limitations
-Governance model of MilestoneDAO is not limited to VCs and early age startups instead extends it horizon to service provider and service consumer
+Governance model of MilestoneDAO is not limited to VCs and early age startups instead extends its horizon to service provider and service consumer
 
 ## Real World Use case
-Upcoming...
+https://www.mcmc.gov.my/en/media/press-releases/63-compounds-totaling-rm2-32-million-issued-to-tel
+Upcoming....
 
