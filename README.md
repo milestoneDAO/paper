@@ -23,6 +23,6 @@ Governance model of MilestoneDAO is not limited to VCs and early age startups in
 https://www.mcmc.gov.my/en/media/press-releases/63-compounds-totaling-rm2-32-million-issued-to-tel
 MCMC is Malaysian Communication and Multimedia Commision, which charged telcos 2.32 Million Malaysian Ringgit (aprox. $500k USD) for not able to offer services upto the mark to customers on various instances, fake registeries and regulatory issues.
 
-MilestoneDAO can save telcos lots of such fines and also make them behave in accordance with the regulations by charging them not as a whole amount at the end of the year rather setting milestones like a small sum will be charged incase there is any such breach of regulations.
+MilestoneDAO can save telcos lots from such fines and also make them behave in accordance with the regulations by charging them not as a whole amount at the end of the year rather setting milestones like a small sum will be charged incase there is any such breach of regulations.
 The breaches will be identified by a third party escrow or even by data analytics or Artificial Intelligence or any party as per agreed upon.
 
