@@ -19,7 +19,7 @@ Each Milestone will have a task and certain amount of funds associated. Once the
 ## Limitations
 Governance model of MilestoneDAO is not limited to VCs and early age startups instead extends its horizon to service provider and service consumer
 
-## Real World Use case
+## Real World Use case (example)
 https://www.mcmc.gov.my/en/media/press-releases/63-compounds-totaling-rm2-32-million-issued-to-tel
 MCMC is Malaysian Communication and Multimedia Commision, which charged telcos 2.32 Million Malaysian Ringgit (aprox. $500k USD) for not able to offer services upto the mark to customers on various instances, fake registeries and regulatory issues.
 
