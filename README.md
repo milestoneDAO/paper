@@ -9,7 +9,7 @@ The idea of MilestonDAO was born on 20th Nov 2019 during [DAOfest](https://www.d
 
 ## Overview
 MilestoneDAO is a Governance Model primarily used to solve the trust gap between investors and early age startups through milestone funding.
-As the name suggest there will be milestones set up by both parties (startup and investor) consensus which is known as Proof of Agreement.
+As the name suggests there will be milestones set up by both parties (startup and investor) consensus which is known as Proof of Agreement.
 Each Milestone will have a task and a certain amount of funds associated. Once the task is completed at the speculated time as promised by the startup, the funds which will be stored in an escrow account will be released.
 ### if m1, m2, m3, mN... are milestone1, milestone2, milestone3, milestoneN respectively
 ### & Complete Project is P
